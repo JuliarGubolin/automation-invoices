@@ -1,6 +1,6 @@
-# Automação de tarefa com Python - Departamento Fiscal LoguComarc contabilidade
+# Reduzindo tarefas com Python - Departamento Fiscal LoguComarc contabilidade
 
-Este pequeno projeto tem como objetivo automatizar a tarefa de salvar nas pastas das devidas empresas suas notas de serviços prestados e tomados já capturadas pelo sistema Conthabil da GissOnline de São José do Rio Preto! Assim, não é necessário a organização manual, garantindo economia de tempo, especialemente no início do mês para o departamento fiscal.
+Este pequeno projeto tem como objetivo acelerar a tarefa de salvar nas pastas das devidas empresas suas notas de serviços prestados e tomados já capturadas pelo sistema Conthabil da GissOnline de São José do Rio Preto! Assim, não é necessário a organização manual, garantindo economia de tempo, especialmente no início do mês para o departamento fiscal.
 
 ## Motivação
 
